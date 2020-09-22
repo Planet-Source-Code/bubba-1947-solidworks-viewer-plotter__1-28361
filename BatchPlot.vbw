@@ -1,0 +1,5 @@
+frmBatchPlot = 204, 280, 1108, 943, C, 10, 10, 674, 533, C
+modAlwaysONTop = 66, 66, 970, 729, C
+frmPreviewBig = 306, 98, 1210, 761, , 548, 260, 1152, 779, C
+modBatchPlotMain = 308, 308, 1212, 971, 
+swConst = 220, 220, 1124, 883, 
